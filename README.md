@@ -1,2 +1,0 @@
-# chat
-Private chat room
